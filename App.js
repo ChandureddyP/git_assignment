@@ -5,8 +5,9 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <div className="content_">
+      <div className="content">
         <Home />
+        <h1>Changes from git-1</h1>
       </div>
     </div>
   );
